@@ -1,0 +1,13 @@
+C:\Users\Pooja\source\repos\Leaving_Ckft\Leaving_Ckft\bin\Debug\Leaving_Ckft.exe.config
+C:\Users\Pooja\source\repos\Leaving_Ckft\Leaving_Ckft\bin\Debug\Leaving_Ckft.exe
+C:\Users\Pooja\source\repos\Leaving_Ckft\Leaving_Ckft\bin\Debug\Leaving_Ckft.pdb
+C:\Users\Pooja\source\repos\Leaving_Ckft\Leaving_Ckft\obj\Debug\Leaving_Ckft.csprojAssemblyReference.cache
+C:\Users\Pooja\source\repos\Leaving_Ckft\Leaving_Ckft\obj\Debug\Leaving_Ckft.Form1.resources
+C:\Users\Pooja\source\repos\Leaving_Ckft\Leaving_Ckft\obj\Debug\Leaving_Ckft.Properties.Resources.resources
+C:\Users\Pooja\source\repos\Leaving_Ckft\Leaving_Ckft\obj\Debug\Leaving_Ckft.csproj.GenerateResource.cache
+C:\Users\Pooja\source\repos\Leaving_Ckft\Leaving_Ckft\obj\Debug\Leaving_Ckft.csproj.CoreCompileInputs.cache
+C:\Users\Pooja\source\repos\Leaving_Ckft\Leaving_Ckft\obj\Debug\Leaving_Ckft.exe
+C:\Users\Pooja\source\repos\Leaving_Ckft\Leaving_Ckft\obj\Debug\Leaving_Ckft.pdb
+C:\Users\Pooja\source\repos\Leaving_Ckft\Leaving_Ckft\bin\Debug\itextsharp.dll
+C:\Users\Pooja\source\repos\Leaving_Ckft\Leaving_Ckft\bin\Debug\PdfSharp.dll
+C:\Users\Pooja\source\repos\Leaving_Ckft\Leaving_Ckft\obj\Debug\Leaving_Ckft.csproj.CopyComplete
